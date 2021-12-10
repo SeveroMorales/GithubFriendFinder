@@ -18,6 +18,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -33,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/github_edges_1.csv" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="221GAIlZ3QN7FbFkn8H935Lvp5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,7 +91,7 @@
       <workItem from="1639057575886" duration="148000" />
       <workItem from="1639074593727" duration="806000" />
       <workItem from="1639075505198" duration="20246000" />
-      <workItem from="1639104005141" duration="4248000" />
+      <workItem from="1639104005141" duration="4623000" />
     </task>
     <servers />
   </component>
